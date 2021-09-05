@@ -1,5 +1,7 @@
 # Practice Cucumber
 
+<img alt="npm" src="https://img.shields.io/npm/v/@cucumber/cucumber?label=version">
+
 ## Installation
 
 If you already have `Node.js`, you can simply run via `npm`:
